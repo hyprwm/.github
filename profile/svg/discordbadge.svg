@@ -23,7 +23,7 @@
                 font-size: 0.5rem;
                 position: absolute;
                 top: 20%;
-                left:10%;
+                left:10.5%;
                 transform: translate(-50%, -50%);
                 z-index: 2;
                 text-align: center;
@@ -31,6 +31,8 @@
                 display: block;
                 padding: 0.1rem;
                 border-radius: 5px;
+                padding-left: 0.2rem;
+                padding-right: 0.2rem;
             }
 
             @keyframes allshit {
