@@ -1,0 +1,140 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            @font-face {
+                font-family: "Noto Sans";
+                src: url("../assets/NotoSans-Regular.ttf");
+            }
+
+            contain {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                max-width: 100%;
+                max-height: 100%;
+                text-align: center;
+                display: flex;
+                align-content: center;
+                justify-content: center;
+                padding-top: 1.55rem;
+            }
+
+            .userboxcont {
+                display: inline-block;
+                position: relative;
+            }
+
+            .userbox {
+                position:relative;
+                max-width: 150px;
+                border-radius: 5px;
+                box-shadow: 0 0 0.5rem #8ae611;
+                text-align: center;
+                display: inline-block;
+                background-color: #111;
+                padding: 0.6rem;
+                padding-bottom: 0.8rem;
+                transition: 0.25s ease-in-out;
+                animation: none;
+                margin-left: 1rem;
+                margin-right: 1rem;
+                display: block;
+            }
+
+            .userbox:hover {
+                animation: rot 2s ease-in-out infinite;
+                box-shadow: 0 0 0.5rem #e61198;
+                scale: 104%;
+            }
+
+            .userimg {
+                position: relative;
+                max-height: 75px;
+                margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+                border-radius: 1rem;
+                animation: boxshadowa 3s ease-in-out infinite;
+            }
+
+            usertitle {
+                font-family: "Noto Sans";
+                font-size: 1.5rem;
+                animation: usertitlea 2s ease-in-out infinite;
+                display: inline;
+                background: linear-gradient(to right, #8ae611, #11e6c3);
+                background-clip: text;
+                color: transparent;
+            }
+
+            userdet {
+                font-family: "Noto Sans";
+                font-size: 0.8rem;
+                color: white;
+                text-shadow: 0 0 0.5rem #2222224a;
+            }
+
+            @keyframes usertitlea {
+                0% {
+                    text-shadow: 0 0 1rem #00ffbbff;
+                }
+                50% {
+                    text-shadow: 0 0 1rem #09e418ff;
+                }
+                100% {
+                    text-shadow: 0 0 1rem #00ffbbff;
+                }
+            }
+
+            @keyframes boxshadowa {
+                0% {
+                    box-shadow: 0 0 0.5rem #3566074a;
+                }
+                50% {
+                    box-shadow: 0 0 1rem #06d19bee;
+                }
+                100% {
+                    box-shadow: 0 0 0.5rem #3566074a;
+                }
+            }
+
+            @keyframes rot {
+                0% {
+                    transform: rotateZ(0deg);
+                }
+                33% {
+                    transform: rotateZ(3deg);
+                }
+                66% {
+                    transform: rotateZ(-3deg);
+                }
+                100% {
+                    transform: rotateZ(0deg);
+                }
+            }
+            </style>
+            <contain>
+            <div class="userboxcont">
+                <div class="userbox">
+                    <img class="userimg" src="../assets/vaxry.jpg" /><br />
+                    <usertitle>Vaxry</usertitle><br />
+                    <userdet>Lead Developer, creator and owner.</userdet>
+                </div>
+            </div>
+            <div class="userboxcont">
+                <div class="userbox">
+                    <img class="userimg" src="../assets/fufexan.png" /><br />
+                    <usertitle>Fufexan</usertitle><br />
+                    <userdet>Supporting developer for Hyprland.</userdet>
+                </div>
+            </div>
+            <div class="userboxcont">
+                <div class="userbox">
+                    <img class="userimg" src="../assets/t1c.png" /><br />
+                    <usertitle style="font-size:1rem">ThatOneCalculator</usertitle><br />
+                    <userdet>AUR Manager.</userdet>
+                </div>
+            </div>
+            </contain>
+        </div>
+    </foreignObject>
+</svg>

@@ -1,0 +1,67 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            @font-face {
+                font-family: "Noto Sans";
+                src: url("../assets/NotoSans-Regular.ttf");
+            }
+
+            contain {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                max-width: 100%;
+                max-height: 100%;
+                text-align: center;
+            }
+
+            h1 {
+                color: white;
+                animation: scaleit 4s infinite ease-in-out;
+                font-family: "Noto Sans";
+                font-size: 2rem;
+                position: relative;
+                top: 38%;
+                transform: translateY(-50%);
+                z-index=2;
+                text-align: center;
+                text-shadow: 0 0 0.5rem #2222224d;
+            }
+
+            bgimg {
+                position: absolute;
+                left: 50%;
+                top: 50%;
+                -webkit-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+                z-index=1;
+                background-image:url("../assets/hdb.png");
+                background-position: center;
+                background-size: contain;
+                background-repeat: no-repeat;
+                width: 60%;
+                height: 100%;
+                max-width: 100%;
+                max-height: 100%;
+            }
+
+            @keyframes scaleit {
+                0% {
+                    transform: scale(110%);
+                }
+                50% {
+                    transform: scale(100%);
+                }
+                100% {
+                    transform: scale(110%);
+                }
+            }
+            </style>
+            <contain>
+            <bgimg></bgimg>
+            <h1>Hypr Development</h1>
+            </contain>
+        </div>
+    </foreignObject>
+</svg>
