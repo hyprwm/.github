@@ -63,6 +63,7 @@
                 display: inline;
                 background: linear-gradient(to right, #8ae611, #11e6c3);
                 background-clip: text;
+                -webkit-background-clip: text;
                 color: transparent;
             }
 
