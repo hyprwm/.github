@@ -9,7 +9,7 @@ for how those tools may and may not be used across the hyprland ecosystem.
 This is a _whitelist_, which means if your use is not explicitly
 allowed here, it is forbidden.
 
-Accptable uses of AI include:
+Acceptable uses of AI include:
 - Summarizing code and/or documentation for learning purposes.
 - Locally writing patches and/or new features, tests, etc.
 
