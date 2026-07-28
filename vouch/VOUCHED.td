@@ -14,26 +14,26 @@ github:vdawg-git
 github:gulafaran
 github:erstarr
 github:fxzzi
-github:ujint34
+github:UjinT34
 github:kolayne
 github:ikalco
 
 # Third party, passed vouch
 
 github:danielkrupinski
-github:lritzdorf
-github:dregu
+github:LRitzdorf
+github:Dregu
 github:andresilva
 github:zacoons
-github:mightyplaza
+github:MightyPlaza
 github:thejch
-github:itsohen
+github:ItsOhen
 github:zjeffer
 github:alba4k
-github:virtcode
-github:aqa-ib
-github:kam1k4dze
-github:lionheartp
+github:VirtCode
+github:Aqa-Ib
+github:Kam1k4dze
+github:LionHeartP
 github:frebib
 
 # Denounced
