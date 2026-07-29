@@ -36,6 +36,7 @@ github:Kam1k4dze
 github:LionHeartP
 github:frebib
 github:umbrageodotus
+github:mikomikotaishi
 
 # Denounced
 
