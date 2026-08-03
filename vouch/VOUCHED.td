@@ -39,6 +39,8 @@ github:umbrageodotus
 github:mikomikotaishi
 github:tyvsmith
 github:3y3p4tch
+github:aurelleb
+github:BlueZeeKing
 
 # Denounced
 
