@@ -1,4 +1,4 @@
-# hyprwm org vouch list
+# hyprwm org vouch list for MRs
 
 # Core
 
