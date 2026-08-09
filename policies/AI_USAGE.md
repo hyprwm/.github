@@ -13,6 +13,13 @@ Acceptable uses of AI include:
 - Summarizing code and/or documentation for learning purposes.
 - Locally writing patches and/or new features, tests, etc.
 
+### Disclose it
+
+Disclose any AI usage in your PR. If you used it to help you understand
+the code, say it. If it wrote a part of the patch, say it.
+
+Not disclosing it destroys your trust and will get you banned.
+
 ### Keep your AI on the leash
 
 An AI model must not submit, write the description of, or in any other
