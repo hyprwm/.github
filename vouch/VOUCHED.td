@@ -49,5 +49,6 @@ github:jzimdars
 github:ilovemikael
 github:gfhdhytghd
 github:Kevi14
+github:tagattie
 
 # Denounced
