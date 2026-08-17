@@ -50,5 +50,6 @@ github:ilovemikael
 github:gfhdhytghd
 github:Kevi14
 github:tagattie
+github:jmanc3
 
 # Denounced
