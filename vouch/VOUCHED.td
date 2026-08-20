@@ -54,5 +54,6 @@ github:jmanc3
 github:iciclejj
 github:RommelRivera
 github:Magniquick
+github:corrm
 
 # Denounced
