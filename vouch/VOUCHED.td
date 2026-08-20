@@ -53,5 +53,6 @@ github:tagattie
 github:jmanc3
 github:iciclejj
 github:RommelRivera
+github:Magniquick
 
 # Denounced
