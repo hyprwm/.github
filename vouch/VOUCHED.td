@@ -52,5 +52,6 @@ github:Kevi14
 github:tagattie
 github:jmanc3
 github:iciclejj
+github:RommelRivera
 
 # Denounced
