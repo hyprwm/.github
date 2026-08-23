@@ -57,5 +57,6 @@ github:Magniquick
 github:corrm
 github:non-bin
 github:RomainGehrig
+github:lukasz-rek
 
 # Denounced
