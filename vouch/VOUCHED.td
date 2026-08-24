@@ -47,7 +47,6 @@ github:justkrysteq
 github:epsilonshmepsilon
 github:jzimdars
 github:ilovemikael
-github:gfhdhytghd
 github:Kevi14
 github:tagattie
 github:jmanc3
