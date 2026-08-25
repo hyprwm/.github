@@ -57,5 +57,6 @@ github:corrm
 github:non-bin
 github:RomainGehrig
 github:lukasz-rek
+github:slopesque
 
 # Denounced
