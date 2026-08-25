@@ -58,5 +58,6 @@ github:non-bin
 github:RomainGehrig
 github:lukasz-rek
 github:slopesque
+github:s0up4200
 
 # Denounced
