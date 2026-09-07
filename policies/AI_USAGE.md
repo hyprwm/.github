@@ -48,7 +48,7 @@ The following do not constitute understanding:
 - Asking the LLM to justify or clarify code it wrote
 - Directing the LLM on function names, variable names, or structure - the logic is still the LLM's
 - Reading code the LLM wrote and finding no obvious errors
-- Running E2E or unit tests against LLM-generated code and seeing green
+- Running unit, integration, or E2E tests against LLM-generated code and seeing green
 
 The bar is this: Can you explain every decision in this PR, the logic, the structure, the tradeoffs, without consulting an LLM? If no, you do not understand it.
 
