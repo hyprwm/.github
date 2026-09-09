@@ -18,7 +18,10 @@ Acceptable uses of AI include:
 Disclose any AI usage in your PR. If you used it to help you understand
 the code, say it. If it wrote a part of the patch, say it.
 
-Not disclosing it destroys your trust and will get you banned.
+This disclosure must be explicit and detailed. "Used AI to help" is NOT enough.
+Write in detail everything you used AI for.
+
+Not disclosing it, or hiding the extent of AI use destroys your trust and will get you banned.
 
 ### Keep your AI on the leash
 
@@ -34,6 +37,25 @@ there is no human in the chain, your submission is invalid.
 Make **sure** to review your code and read through it so that you understand
 it. If you don't, do **not** submit it. You can use it for your own purposes,
 but we don't want to waste our time on doing all the work for you.
+
+### Understand what you are doing
+
+It is non-negotiable to understand what you are adding/changing with your PR. This understanding must belong to YOU, and must not come from an LLM.
+
+The following do not constitute understanding:
+
+- Asking an LLM to explain the codebase or the change to you
+- Asking the LLM to justify or clarify code it wrote
+- Directing the LLM on function names, variable names, or structure - the logic is still the LLM's
+- Reading code the LLM wrote and finding no obvious errors
+- Running unit, integration, or E2E tests against LLM-generated code and seeing green
+
+The bar is this: Can you explain every decision in this PR, the logic, the structure, the tradeoffs, without consulting an LLM? If no, you do not understand it.
+
+"The AI proposed the logic and wrote the majority of the code, but I supervised it" is not being in the loop. Supervision is NOT authorship. If the LLM proposed the logic, the LLM made the decision, the LLM wrote the code, the LLM explained you why it's good; you being present while all this happened is not a substitute for you making it.
+
+An LLM may help explain concepts to you, or even parts of the code; but YOU must be the one connecting the dots, doing the critical thinking, and planning. Otherwise, you are NOT in the loop and making such a PR WILL be considered a violation of the AI policy.
+
 
 ## Penalties and punishments
 
