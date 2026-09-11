@@ -69,5 +69,6 @@ github:icehunt
 github:IanHollow
 github:EinBaum
 github:carlo711
+github:pedromiguelvc
 
 # Denounced
