@@ -1,0 +1,29 @@
+name: TriggerHappy - Discussion Moderation Tool
+
+on:
+  discussion:
+    types: [created]
+  discussion_comment:
+    types: [created]
+
+permissions:
+  discussions: write
+  contents: write
+
+jobs:
+  moderate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: erstarr/TriggerHappy@v0.3
+        with:
+          github_token:  ${{ secrets.GITHUB_TOKEN }}
+          storage_token: ${{ secrets.GITHUB_TOKEN }}
+          storage_repo:  hyprwm/.github
+          config_path:   discussion_moderator/dotGithub/config.yml
+          banned_path:   discussion_moderator/dotGithub/banned.yml
+          strikes_path:  discussion_moderator/dotGithub/strikes.yml
+
+          strikes_to_ban: 3
+          # auto_close_regex: ''
+          # auto_close_categories: "Bugs - CMake / Meson / Nix, Bugs - Config, Bugs - Crashes, Bugs - DRM, Bugs - Input, Bugs - IPC / Plugins, Bugs - Layout, Bugs - Other, Bugs - Performance, Bugs - Renderer, Bugs - Window management, Bugs - XWayland, Feature requests - Config, Feature requests - Layouts, Feature requests - Other, Feature requests - Protocols / Integrations, Feature requests - Renderer, Feature requests - Window management"
+          # strike_per_nonFormat: True
