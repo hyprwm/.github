@@ -19,9 +19,9 @@ jobs:
           github_token:  ${{ secrets.GITHUB_TOKEN }}
           storage_token: ${{ secrets.GITHUB_TOKEN }}
           storage_repo:  hyprwm/.github
-          config_path:   discussion_moderator/dotGithub/config.yml
-          banned_path:   discussion_moderator/dotGithub/banned.yml
-          strikes_path:  discussion_moderator/dotGithub/strikes.yml
+          config_path:   discussion_moderation/dotGithub/config.yml
+          banned_path:   discussion_moderation/dotGithub/banned.yml
+          strikes_path:  discussion_moderation/dotGithub/strikes.yml
 
           strikes_to_ban: 3
           # auto_close_regex: ''
