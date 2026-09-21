@@ -78,4 +78,4 @@ github:WhySoBad
 
 # Denounced
 
-github:DmitriiPetukhov
+-github:DmitriiPetukhov
