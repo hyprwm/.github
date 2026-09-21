@@ -61,7 +61,6 @@ github:slopesque
 github:s0up4200
 github:rogervn
 github:brunowowk
-github:gusjengis
 github:maslowian
 github:sitiyou
 github:spinualexandru
