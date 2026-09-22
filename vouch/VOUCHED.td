@@ -75,6 +75,7 @@ github:oclaw
 github:javalsai
 github:Shiphan
 github:WhySoBad
+github:scottjones
 
 # Denounced
 
