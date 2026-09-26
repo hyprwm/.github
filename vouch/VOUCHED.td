@@ -78,6 +78,7 @@ github:WhySoBad
 github:scottjones
 github:qweenkie
 github:Undeadamien
+github:CaptainKills
 
 # Denounced
 
