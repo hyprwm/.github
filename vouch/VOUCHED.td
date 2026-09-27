@@ -79,6 +79,7 @@ github:scottjones
 github:qweenkie
 github:Undeadamien
 github:CaptainKills
+github:yeager
 
 # Denounced
 
