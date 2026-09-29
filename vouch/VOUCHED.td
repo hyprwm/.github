@@ -76,10 +76,14 @@ github:javalsai
 github:Shiphan
 github:WhySoBad
 github:scottjones
+<<<<<<< HEAD
 github:qweenkie
 github:Undeadamien
 github:CaptainKills
 github:yeager
+=======
+github:arcatva
+>>>>>>> e440516 (VOUCH: update list)
 
 # Denounced
 
