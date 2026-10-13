@@ -85,6 +85,7 @@ github:amarsbar
 github:umbrageodotus
 github:nazarenkomykyta
 github:b1tflyyyy
+github:flavorjones
 
 # Denounced
 
