@@ -21,7 +21,7 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: What I want to contribute right now (Please make the PR and link it here. You can re-open it after you get your vouch)
+      label: What I want to contribute right now (Please make a PR and link it here. You can re-open it after you get your vouch)
       description: |
         A bug, feature, etc. Why do you need to be vouched for?
       placeholder: |
