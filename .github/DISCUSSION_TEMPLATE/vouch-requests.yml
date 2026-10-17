@@ -21,12 +21,13 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: What I want to contribute right now (Please make a PR and link it here. You can re-open it after you get your vouch)
+      label: What I want to contribute right now
       description: |
         A bug, feature, etc. Why do you need to be vouched for?
+        Please make the PR and link it here, and re-make it (you can simply copy-paste the PR body from the same branch) after you get your vouch (prefer this if you can). Alternatively, you can link your branch here.
       placeholder: |
         I want to fix...
-        PR Link: ...
+        PR/Branch Link: ...
     validations:
       required: true
   - type: textarea
