@@ -99,6 +99,7 @@ github:flashrun24
 github:da0x
 github:cnt0
 github:hitori-chan
+github:east-shine
 
 # Denounced
 
