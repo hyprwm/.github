@@ -105,6 +105,7 @@ github:zhouwg
 github:hyperair
 github:rgalhos
 github:riccardo1512
+github:omarvalentini
 
 # Denounced
 
