@@ -108,6 +108,7 @@ github:riccardo1512
 github:omarvalentini
 github:diamo-dev
 github:Praket-Thakur
+github:devpryan7792
 
 # Denounced
 
